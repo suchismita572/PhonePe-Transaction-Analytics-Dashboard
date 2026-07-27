@@ -1,9 +1,7 @@
 # 📱 PhonePe Transaction Analytics Dashboard
 
 ## 📊 Unlocking Digital Payment Insights with Power BI
-
-The **PhonePe Transaction Analytics Dashboard** is an interactive **Power BI** project designed to analyze digital payment transactions and transform raw transactional data into meaningful business insights. The dashboard enables users to monitor transaction performance, analyze payment trends, compare service usage, and evaluate payment success rates through dynamic visualizations and interactive filters.
-
+![PhonePe-Transaction-Analytics-Dashboard](BackgroundDashBoard.png)
 ---
 
 ## 📌 Project Overview
@@ -153,7 +151,7 @@ Analyzes the reasons behind failed transactions.
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshots here.
+![PhonePe-Transaction-Analytics-Dashboard](BackgroundDashBoard.png)
 
 Example:
 
