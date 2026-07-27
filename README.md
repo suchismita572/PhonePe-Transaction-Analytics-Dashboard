@@ -193,9 +193,9 @@ Example:
 
 If you found this project useful or have any suggestions, feel free to connect with me!
 
-**LinkedIn:** *Add your LinkedIn profile*
+**LinkedIn:** *https://www.linkedin.com/in/suchismita-mallick-02221b345/*
 
-**Email:** *Add your email*
+**Email:** *suchismitamallick2004@gmail.com*
 
 ---
 ⭐ **If you like this project, don't forget to give it a Star!**
